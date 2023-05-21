@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-		<p> York University School of Continuing Studies </p>
+		<p> Jomacs IT Solutions </p>
 	    <p> Certificate in DevOps </p>
         <img src={logo} className="App-logo" alt="logo" />
         <ul>
@@ -16,11 +16,11 @@ function App() {
         </ul> 
         <a
           className="App-link"
-          href="https://continue.yorku.ca/programs/certificate-in-devops/"
+          href="https://jomacsit.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn DevOps with York University School of Continuing Studies
+          Learn DevOps with Jomacs IT Solutions
         </a>
       </header>
     </div>
